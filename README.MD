@@ -1,0 +1,1 @@
+Place the tool in the folder with the files then run the tool SIMPLE!!
